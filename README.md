@@ -31,5 +31,11 @@ There are no additional changes needed to run the game but note that the image a
 - Beijing, China
 - Freshman @ Babson College
 
+## Screenshots
+
+![start game](start.png)
+![middle game](middle.png)
+![shoot](shoot.png)
+
 ## Credits
-Background: 
+Background: [@Okizari]https://www.newgrounds.com/art/view/okizari/sagume
