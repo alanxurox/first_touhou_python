@@ -2,7 +2,7 @@
 
 This project is an attempt at remaking a demo of the [Touhou](https://en.wikipedia.org/wiki/Touhou_Project) shooter game, comprised of 6 enemies with a barrage of bullets. The architecture is model-view-controller, or MVC, and the project is mainly using pygame.
 
-[README]()
+[README](https://github.com/olincollege/first_touhou_python/blob/main/README.md)
 
 ## Usages
 Download the zip file from the right, or use
