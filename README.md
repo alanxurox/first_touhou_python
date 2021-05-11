@@ -38,4 +38,4 @@ There are no additional changes needed to run the game but note that the image a
 ![shoot](shoot.png)
 
 ## Credits
-Background: [@Okizari]https://www.newgrounds.com/art/view/okizari/sagume
+Background: [@Okizari](https://www.newgrounds.com/art/view/okizari/sagume)
